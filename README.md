@@ -1,1 +1,1 @@
-# SOCIAL-MEDIA-APP
+using redux.js , react.js, firebase
